@@ -1,0 +1,72 @@
+site_name: RefEngine
+site_description: Документация RefEngine — движка Friday Night Funkin' на LÖVE2D
+site_url: https://refenger.github.io/
+repo_url: https://github.com/Refenger/refenger.github.io
+repo_name: Refenger/refenger.github.io
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: ru
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Светлая тема
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Тёмная тема
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - content.action.edit
+  icon:
+    repo: fontawesome/brands/github
+
+nav:
+  - Главная: index.md
+  - Моды: mods.md
+  - Песни и чарты: songs.md
+  - Типы нот: notetypes.md
+  - Скрипты:
+      - Основы: scripting/index.md
+      - Колбэки: scripting/callbacks.md
+      - Доступные функции: scripting/api.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+
+plugins:
+  - search:
+      lang:
+        - ru
+        - en
