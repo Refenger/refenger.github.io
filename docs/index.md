@@ -1,11 +1,12 @@
 # RefEngine Downloads
 
-### RefEngine 1.7.3 [Download](https://drive.google.com/file/d/1z46ju_GRh4fFHnSJ6497080-ceY9J5-o/view?usp=drive_link)
+### RefEngine 1.7.4
+[Download for Windows](https://drive.google.com/file/d/1kXmU2WTOytRlT4Uc9ZIMAPjfNXXmjMZx/view?usp=sharing)
 
 ## Mods
 
-### VS Matt Legacy 1.0 [Download](https://drive.google.com/file/d/1OJQAL0lEUykxBSEL760NVSWMIsrSCOLq/view?usp=sharing)
-16 songs, Wiik 1-4
+### VS Matt Legacy
+[Download](https://drive.google.com/file/d/1OJQAL0lEUykxBSEL760NVSWMIsrSCOLq/view?usp=sharing) v1.0
 <details>
   <summary>Songs</summary>
   1. Legacy Light It Up<br>
@@ -24,4 +25,16 @@
   14. Legacy Final Showdown  <br>
   15. Legacy Endless Battle (modchart included) <br> 
   16. Legacy Purgatory
+</details>
+
+
+### VS Matt Wiik 3+
+[Download](https://drive.google.com/file/d/1cqbANLlyRQaYl6FqsAJA4ML7EMAm5j_W/view?usp=sharing) v1.0
+<details>
+  <summary>Songs</summary>
+  1. Uppercut<br>
+  2. Fishycuffs<br>
+  3. Scribble<br>  
+  4. Skirmish<br>
+  5. Incursion
 </details>
