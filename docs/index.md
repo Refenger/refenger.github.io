@@ -1,7 +1,7 @@
 # RefEngine Downloads
 
-### RefEngine 1.7.4
-[Download for Windows](https://drive.google.com/file/d/1kXmU2WTOytRlT4Uc9ZIMAPjfNXXmjMZx/view?usp=sharing)
+### RefEngine 1.7.6
+[Download for Windows](https://drive.google.com/file/d/1Ouu1o15x7pczfEZyf5XQRKy4Zmn8I3cr/view?usp=sharing)
 
 ## Mods
 
