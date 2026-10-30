@@ -6,24 +6,24 @@
 
 ## Mods
 
-### VS Matt Legacy 1.0
-16 songs, Wiik 1-4 [Download](https://drive.google.com/file/d/1OJQAL0lEUykxBSEL760NVSWMIsrSCOLq/view?usp=sharing)
+### VS Matt Legacy 1.0 [Download](https://drive.google.com/file/d/1OJQAL0lEUykxBSEL760NVSWMIsrSCOLq/view?usp=sharing)
+16 songs, Wiik 1-4
 <details>
   <summary>Songs</summary>
-  1. Legacy Light It Up  
-  2. Legacy Ruckus  
-  3. Legacy Target Practice  
-  4. Legacy Sporting  
-  5. Legacy Boxing Match  
-  6. Legacy Fisticuffs  
-  7. Legacy Wind Up  
-  8. Legacy Deathmatch  
-  9. Legacy King Hit (OG and FeFe charts included)  
-  10. Legacy TKO  
-  11. Legacy En Garde  
-  12. Legacy Combat  
-  13. Legacy Sword Fight  
-  14. Legacy Final Showdown  
-  15. Legacy Endless Battle (modchart included)  
-  16. Legacy Purgatory  
+  1. Legacy Light It Up<br>
+  2. Legacy Ruckus<br>
+  3. Legacy Target Practice<br>  
+  4. Legacy Sporting  <br>
+  5. Legacy Boxing Match  <br>
+  6. Legacy Fisticuffs  <br>
+  7. Legacy Wind Up  <br>
+  8. Legacy Deathmatch  <br>
+  9. Legacy King Hit (OG and FeFe charts included)  <br>
+  10. Legacy TKO  <br>
+  11. Legacy En Garde <br> 
+  12. Legacy Combat  <br>
+  13. Legacy Sword Fight <br> 
+  14. Legacy Final Showdown  <br>
+  15. Legacy Endless Battle (modchart included) <br> 
+  16. Legacy Purgatory
 </details>
