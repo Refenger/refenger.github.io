@@ -1,5 +1,5 @@
 site_name: RefEngine
-site_description: Документация RefEngine — движка Friday Night Funkin' на LÖVE2D
+site_description: RefEngine
 site_url: https://refenger.github.io/
 repo_url: https://github.com/Refenger/refenger.github.io
 repo_name: Refenger/refenger.github.io
@@ -37,14 +37,7 @@ theme:
     repo: fontawesome/brands/github
 
 nav:
-  - Главная: index.md
-  - Моды: mods.md
-  - Песни и чарты: songs.md
-  - Типы нот: notetypes.md
-  - Скрипты:
-      - Основы: scripting/index.md
-      - Колбэки: scripting/callbacks.md
-      - Доступные функции: scripting/api.md
+  - Main: index.md
 
 markdown_extensions:
   - admonition
@@ -68,5 +61,4 @@ markdown_extensions:
 plugins:
   - search:
       lang:
-        - ru
         - en
