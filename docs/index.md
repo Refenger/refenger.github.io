@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
      <img src="./icon_vs_matt_legacy.png" alt="VS Matt Legacy" width="150"> 
      <h3>VS Matt Legacy</h3>
       <p><a href="https://drive.google.com/file/d/1OJQAL0lEUykxBSEL760NVSWMIsrSCOLq/view?usp=sharing">⬇️ Download</a> · v1.0</p>
@@ -33,7 +33,7 @@
         </ol>
       </details>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
      <img src="./icon_vs_matt_wiik_3_plus.png" alt="VS Matt Wiik 3+" width="150"> 
       <h3>VS Matt Wiik 3+</h3>
       <p><a href="https://drive.google.com/file/d/1cqbANLlyRQaYl6FqsAJA4ML7EMAm5j_W/view?usp=sharing">⬇️ Download</a> · v1.0</p>
@@ -48,9 +48,7 @@
         </ol>
       </details>
     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
+   <td valign="top" width="33%">
       <img src="./icon_new_daasher_destination_hell.png" alt="New Dasher Destination Hell" width="150"> 
       <h3>New Dasher Destination Hell</h3>
       <p><a href="https://drive.google.com/file/d/1GVovF6TW7-aJUL6rqzuOEW142zJvDaDc/view?usp=drive_link">⬇️ Download</a> · v1.0</p>
@@ -62,6 +60,5 @@
         </ol>
       </details>
     </td>
-    <td></td>
   </tr>
 </table>
