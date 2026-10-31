@@ -26,7 +26,7 @@
   15. Legacy Endless Battle (modchart included) <br> 
   16. Legacy Purgatory
 </details>
-
+<br>
 
 ### VS Matt Wiik 3+
 [Download](https://drive.google.com/file/d/1cqbANLlyRQaYl6FqsAJA4ML7EMAm5j_W/view?usp=sharing) v1.0
@@ -38,7 +38,9 @@
   4. Skirmish<br>
   5. Incursion
 </details>
+<br>
 
-### New Dasher Destination Hell by [MooshFNF](https://www.youtube.com/@MooshFNF)
-[Download](https://drive.google.com/file/d/1GVovF6TW7-aJUL6rqzuOEW142zJvDaDc/view?usp=drive_link) v1.0
+### New Dasher Destination Hell
+[Download](https://drive.google.com/file/d/1GVovF6TW7-aJUL6rqzuOEW142zJvDaDc/view?usp=drive_link) v1.0<br>
+Made by: [MooshFNF](https://www.youtube.com/@MooshFNF)<br>
 1 Song: New Dasher Destination Hell (9 keys)
