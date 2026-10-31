@@ -1,8 +1,8 @@
 # RefEngine Downloads
 
 ## RefEngine 1.7.6
-<img src="./WindowIcon.png" alt="VS Matt Legacy" width="100"><br>
- [⬇️ Download for Windows](https://drive.google.com/file/d/1Ouu1o15x7pczfEZyf5XQRKy4Zmn8I3cr/view?usp=sharing)
+<div align="center"><img src="./WindowIcon.png" alt="VS Matt Legacy" width="100"></div>
+<div align="center"><a href="https://drive.google.com/file/d/1Ouu1o15x7pczfEZyf5XQRKy4Zmn8I3cr/view?usp=sharing">⬇️ Download for Windows</a></div>
 
 ## Mods
 
