@@ -15,14 +15,14 @@ theme:
       accent: amber
       toggle:
         icon: material/weather-sunny
-        name: Светлая тема
+        name: Light Theme
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: deep orange
       accent: amber
       toggle:
         icon: material/weather-night
-        name: Тёмная тема
+        name: Dark Theme
   features:
     - navigation.instant
     - navigation.tracking
