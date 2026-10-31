@@ -22,13 +22,13 @@
           <li>Legacy Fisticuffs</li>
           <li>Legacy Wind Up</li>
           <li>Legacy Deathmatch</li>
-          <li>Legacy King Hit (OG и FeFe charts)</li>
+          <li>Legacy King Hit (OG and FeFe charts)</li>
           <li>Legacy TKO</li>
           <li>Legacy En Garde</li>
           <li>Legacy Combat</li>
           <li>Legacy Sword Fight</li>
           <li>Legacy Final Showdown</li>
-          <li>Legacy Endless Battle (с модчартом)</li>
+          <li>Legacy Endless Battle (modchart included)</li>
           <li>Legacy Purgatory</li>
         </ol>
       </details>
