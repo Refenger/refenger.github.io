@@ -38,3 +38,7 @@
   4. Skirmish<br>
   5. Incursion
 </details>
+
+### New Dasher Destination Hell by [MooshFNF](https://www.youtube.com/@MooshFNF)
+[Download](https://drive.google.com/file/d/1GVovF6TW7-aJUL6rqzuOEW142zJvDaDc/view?usp=drive_link) v1.0
+1 Song: New Dasher Destination Hell (9 keys)
