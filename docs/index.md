@@ -1,46 +1,64 @@
 # RefEngine Downloads
 
-### RefEngine 1.7.6
-[Download for Windows](https://drive.google.com/file/d/1Ouu1o15x7pczfEZyf5XQRKy4Zmn8I3cr/view?usp=sharing)
+## RefEngine 1.7.6
+ [⬇️ Download for Windows](https://drive.google.com/file/d/1Ouu1o15x7pczfEZyf5XQRKy4Zmn8I3cr/view?usp=sharing)
 
 ## Mods
 
-### VS Matt Legacy
-[Download](https://drive.google.com/file/d/1OJQAL0lEUykxBSEL760NVSWMIsrSCOLq/view?usp=sharing) v1.0
-<details>
-  <summary>Songs</summary>
-  1. Legacy Light It Up<br>
-  2. Legacy Ruckus<br>
-  3. Legacy Target Practice<br>  
-  4. Legacy Sporting  <br>
-  5. Legacy Boxing Match  <br>
-  6. Legacy Fisticuffs  <br>
-  7. Legacy Wind Up  <br>
-  8. Legacy Deathmatch  <br>
-  9. Legacy King Hit (OG and FeFe charts included)  <br>
-  10. Legacy TKO  <br>
-  11. Legacy En Garde <br> 
-  12. Legacy Combat  <br>
-  13. Legacy Sword Fight <br> 
-  14. Legacy Final Showdown  <br>
-  15. Legacy Endless Battle (modchart included) <br> 
-  16. Legacy Purgatory
-</details>
-<br>
-
-### VS Matt Wiik 3+
-[Download](https://drive.google.com/file/d/1cqbANLlyRQaYl6FqsAJA4ML7EMAm5j_W/view?usp=sharing) v1.0
-<details>
-  <summary>Songs</summary>
-  1. Uppercut<br>
-  2. Fishycuffs<br>
-  3. Scribble<br>  
-  4. Skirmish<br>
-  5. Incursion
-</details>
-<br>
-
-### New Dasher Destination Hell
-[Download](https://drive.google.com/file/d/1GVovF6TW7-aJUL6rqzuOEW142zJvDaDc/view?usp=drive_link) v1.0<br>
-Made by: [MooshFNF](https://www.youtube.com/@MooshFNF)<br>
-1 Song: New Dasher Destination Hell (9 keys)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>VS Matt Legacy</h3>
+      <p><a href="https://drive.google.com/file/d/1OJQAL0lEUykxBSEL760NVSWMIsrSCOLq/view?usp=sharing">⬇️ Download</a> · v1.0</p>
+      <details>
+        <summary>16 Songs</summary>
+        <ol>
+          <li>Legacy Light It Up</li>
+          <li>Legacy Ruckus</li>
+          <li>Legacy Target Practice</li>
+          <li>Legacy Sporting</li>
+          <li>Legacy Boxing Match</li>
+          <li>Legacy Fisticuffs</li>
+          <li>Legacy Wind Up</li>
+          <li>Legacy Deathmatch</li>
+          <li>Legacy King Hit (OG и FeFe charts)</li>
+          <li>Legacy TKO</li>
+          <li>Legacy En Garde</li>
+          <li>Legacy Combat</li>
+          <li>Legacy Sword Fight</li>
+          <li>Legacy Final Showdown</li>
+          <li>Legacy Endless Battle (с модчартом)</li>
+          <li>Legacy Purgatory</li>
+        </ol>
+      </details>
+    </td>
+    <td valign="top" width="50%">
+      <h3>VS Matt Wiik 3+</h3>
+      <p><a href="https://drive.google.com/file/d/1cqbANLlyRQaYl6FqsAJA4ML7EMAm5j_W/view?usp=sharing">⬇️ Download</a> · v1.0</p>
+      <details>
+        <summary>5 Songs</summary>
+        <ol>
+          <li>Uppercut</li>
+          <li>Fishycuffs</li>
+          <li>Scribble</li>
+          <li>Skirmish</li>
+          <li>Incursion</li>
+        </ol>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>New Dasher Destination Hell</h3>
+      <p><a href="https://drive.google.com/file/d/1GVovF6TW7-aJUL6rqzuOEW142zJvDaDc/view?usp=drive_link">⬇️ Download</a> · v1.0</p>
+      <p>Made by: <a href="https://www.youtube.com/@MooshFNF">MooshFNF</a></p>
+      <details>
+        <summary>1 Song</summary>
+        <ol>
+          <li>New Dasher Destination Hell</li>
+        </ol>
+      </details>
+    </td>
+    <td></td>
+  </tr>
+</table>
